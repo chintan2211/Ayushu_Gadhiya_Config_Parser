@@ -3,9 +3,9 @@ This is a Python module for parsing and processing configuration files in variou
 
 Installation:
 1.Clone the repository:
-    git clone https://github.com/example_ayushi_gadhiya.git
+    git clone https://github.com/chintan2211/Ayushu_Gadhiya_Config_Parser.git
 2.Navigate to the project directory:
-    cd configuration-parser
+    cd Ayushu_Gadhiya_Config_Parser
 3.Install the required dependencies:
     pip install -r requirements.txt
 
